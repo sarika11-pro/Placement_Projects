@@ -1,0 +1,59 @@
+Name-Kumari Sarika.
+Student|Fast Learner|Developer
+
+Conatct no- 9341474531
+Gmail-sarikabgp2003@gmail.com.
+
+Education Details:
+
+1.Class 10-71.4%
+2.Class 12-71,6%
+3.CGPA - 6.75.
+
+Academic Achievements:
+Participating in Code Rush september’23 at Newton school and score rank:1567.
+
+Work Experience:
+
+• Virtual Internship @oasisinfobyte.                                                    05/2024 - 06/2024
+Temperature converter website.
+❖ Tech used - HTML, CSS, JavaScript.
+❖ In this project the user will input a temperature in Fahrenheit or in Celsius and press a covert button. The converted temperature will then be displayed with the correct unit.
+
+•Virtual Internship @quizaro.                                                           06/2023 - 08/2023
+Portfolio Website.
+❖ Tech used – HTML, CSS, JavaScript.
+❖ This project showcases my skills in web development by displaying my work and projects. The website design is simple but effective, making it easy to navigate. I have used different CSS techniques for styling and JavaScript for adding interactive features. The portfolio also includes a contact form for employers to reach out.
+
+•Skills Summary:
+Relevant Coursework: Basics of Data Structure and Algorithm, Object-Oriented Programming,Database Management System, Operating System, Computer Network.
+
+Programming Language: C/C++, Basics of Python, HTML, CSS, JavaScript, Basics of Machine Learning.
+
+Tools/Technologies: MongoDB, Git/GitHub, Microsoft Power BI, Tableau, Figma, Spark AR, Microsoft Excel.
+
+Soft Skills: Team Leader, Fast Learner, Time Management, Problem solving.
+
+•Projects:
+1)Excel Clone-
+❖ Skills Used- HTML, CSS, JAVASCRIPT.
+❖ The project mimics the core functionalities of Microsoft Excel, allowing users to create and manipulate spreadsheets within a browser. Key features include cell formatting, formula calculations, and basic data management capabilities. The interface is designed to be intuitive, resembling the traditional Excel layout, with rows and columns where users can input data, perform calculations, and apply formatting styles. This project showcases your ability to build complex, interactive web applications using front-end technologies.
+
+2) Customer Segmentation Analysis-
+❖ Skills Used- SQL.
+❖ The project involved extracting and preparing customer data with SQL, applying clustering algorithms to identify distinct customer groups, and visualizing the results. This analysis provided actionable insights for targeted marketing strategies and improved customer engagement.
+
+•Positions of Responsibility:
+1) Senior Coordinator @BMEP                                                             02/2023 - present
+❖ A Society where we Teach Under-privileged Students.
+❖ Developed and executed a series of skill-building workshops, resulting in 30% increase in student participation.
+
+2) Class Representative                                                                 01/2023 - 04/2023
+❖ Served as a liaison between faculty and students, effectively addressing student concerns and facilitating communication.
+❖ Coordinated over 20+ class events and demonstrating strong leadership and organizational skills.
+
+•Extracurricular Activities:
+Cooking.
+Interest in making DIY like Painting, Cards, string art.
+
+
